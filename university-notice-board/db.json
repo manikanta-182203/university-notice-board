@@ -1,0 +1,49 @@
+{
+  "notices": [
+    {
+      "id": "1",
+      "title": "Mid-Semester Examination Timetable",
+      "category": "Examinations",
+      "department": "Academic Office",
+      "date": "2026-10-12",
+      "priority": "Important",
+      "description": "The mid-semester examination timetable is available. Students should check their department schedule and contact the academic office if they notice a clash."
+    },
+    {
+      "id": "2",
+      "title": "Library Hours During Examination Week",
+      "category": "Campus",
+      "department": "Central Library",
+      "date": "2026-10-10",
+      "priority": "Normal",
+      "description": "The central library will remain open until 9:00 PM during examination week. Please carry your university ID card."
+    },
+    {
+      "id": "3",
+      "title": "VLSI and Embedded Systems Workshop",
+      "category": "Events",
+      "department": "ECE Department",
+      "date": "2026-10-08",
+      "priority": "Normal",
+      "description": "Registration is open for the hands-on workshop on VLSI design and embedded systems. Interested students should register with their department coordinator."
+    },
+    {
+      "id": "4",
+      "title": "Scholarship Document Verification",
+      "category": "Scholarships",
+      "department": "Student Welfare",
+      "date": "2026-10-06",
+      "priority": "Important",
+      "description": "Students applying for scholarships should submit the required documents to the student welfare office before the announced deadline."
+    },
+    {
+      "id": "5",
+      "title": "Sports Club Registrations",
+      "category": "Sports",
+      "department": "Physical Education",
+      "date": "2026-10-04",
+      "priority": "Normal",
+      "description": "Registrations are open for university sports clubs. Students can sign up for cricket, badminton, volleyball, athletics, and chess."
+    }
+  ]
+}
